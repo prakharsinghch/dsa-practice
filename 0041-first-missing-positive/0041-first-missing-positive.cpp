@@ -6,23 +6,19 @@ public:
         for(auto x: nums){
             m[x]++;
         }
-        int mn=1, mx=0;
-        for(auto x: m ){
-            if(x.first<=0) continue;
-            else {
-                mn = min(mn,x.first);
-                mx = max(mx,x.first);
-            }
+        
+        for(int i=1;i<=nums.size()+1;i++){
+            if(m[i] == 0) return i;
         }
         
-        while(mn<mx){
-            if(!m[mn]){
-                return mn;
-            }
-            mn++;
-        }
+        // while(mn<mx){
+        //     if(!m[mn]){
+        //         return mn;
+        //     }
+        //     mn++;
+        // }
 
-        return mx+1;
+        return 1;
 
     
     }
