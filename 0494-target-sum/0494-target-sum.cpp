@@ -1,19 +1,32 @@
 class Solution {
 public:
 
-    int recr(vector<int>& nums, int target, int i){
+    int recr(int sum,vector<int>& nums, int target,int curr,int i,vector<vector<int>>& dp){
         if(i == nums.size() ) {
-            if(target == 0) return 1;
+            if(curr == target) return 1;
             return 0;
         }
 
-        int add = recr(nums, target+nums[i], i+1);
-        int sub = recr(nums,target-nums[i],i+1);
+        if(dp[i][sum+curr] != -1) return dp[i][sum+curr];
 
-        return add+sub;
+
+
+        int add = recr(sum,nums, target,curr+nums[i], i+1,dp);
+        int sub = recr(sum,nums,target,curr-nums[i],i+1,dp);
+
+        return dp[i][sum+curr] = add+sub;
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
-        return recr(nums,target,0);
+
+        int sum = 0;
+        for(auto x: nums) sum+=x;
+
+        vector<vector<int>> dp(nums.size()+1, vector<int>(2*sum+1,-1));
+
+        if(target>sum||target<-sum){
+            return 0;
+        }
+        return recr(sum,nums,target,0,0,dp);
     }
 };
