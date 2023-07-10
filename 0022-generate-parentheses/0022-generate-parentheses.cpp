@@ -19,12 +19,6 @@ public:
             solve(c1,c2-1,s1,ans);
         }
 
-        else if(c2 == 0){
-            string s1 = s;
-            s1.push_back('(');
-            solve(c1-1,c2,s1,ans);
-        }
-
         else {
             string s1 = s,s2 = s;
             s1.push_back('(');
