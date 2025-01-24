@@ -1,33 +1,30 @@
 class Solution {
 public:
 
-    bool dfs(int i, vector<vector<int>>& graph, vector<bool>& vis, vector<bool>& path){
-        vis[i] = true;
-        path[i] = true;
-        for(auto x : graph[i]){
-            if(vis[x] == false && dfs(x,graph,vis,path) ) return true;
-            else if(path[x]) return true;
-        }
+    bool dfs(int i, vector<vector<int>>& graph, vector<int>& vis, vector<int>& inStack){
+        if(inStack[i]) return true;
+        if(vis[i]) return false;
 
-        path[i] = false;
+        vis[i] = 1;
+        inStack[i] = 1;
+        for(auto x:graph[i]){
+            if(dfs(x,graph,vis,inStack)) return true;
+        }
+        inStack[i] = false;
         return false;
     }
 
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<bool> vis(n,false);
-        vector<bool> path(n,false);
-
+        int n=graph.size();
+        vector<int> vis(n,0), inStack(n,0);
         for(int i=0;i<n;i++){
-            if(vis[i] == false) dfs(i,graph,vis, path);
+            dfs(i,graph,vis,inStack);
         }
-
         vector<int> ans;
         for(int i=0;i<n;i++){
-            if(path[i] == false) ans.push_back(i);
+            if(inStack[i] == 0) ans.push_back(i); 
         }
 
         return ans;
-
-    }   
+    }
 };
