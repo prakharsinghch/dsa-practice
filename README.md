@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/prakharsinghch/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/prakharsinghch/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prakharsinghch/dsa-practice/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prakharsinghch/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/prakharsinghch/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakharsinghch/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prakharsinghch/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/prakharsinghch/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/prakharsinghch/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prakharsinghch/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/prakharsinghch/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/prakharsinghch/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/prakharsinghch/dsa-practice/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
