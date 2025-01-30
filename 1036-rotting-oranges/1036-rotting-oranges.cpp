@@ -5,12 +5,15 @@ public:
         vector<vector<int>> vis(m,vector<int>(n));
         queue<pair<pair<int,int>,int>> q;
 
+        int fresh = 0;
+
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 2){
                     vis[i][j] = 2;
                     q.push({{i,j},0});
                 }
+                if(grid[i][j] == 1) fresh++;
             }
         }
 
@@ -31,6 +34,7 @@ public:
                 int nCol = c + d1[i];
                 if(nRow >=0 && nCol>=0 && nRow < m && nCol < n && vis[nRow][nCol] !=2 && grid[nRow][nCol] == 1){
                     vis[nRow][nCol] = 2;
+                    fresh--;
                     q.push({{nRow,nCol},t+1});
                 }
             }
@@ -39,13 +43,7 @@ public:
 
 
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                // cout<<vis[i][j]<<" ";
-                if(grid[i][j] == 1 && vis[i][j] != 2) return -1;
-            }
-            cout<<endl;
-        }    
+        if(fresh > 0) return -1;   
 
         return ans;
 
