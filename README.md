@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/prakharsinghch/dsa-practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/prakharsinghch/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/prakharsinghch/dsa-practice/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/prakharsinghch/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/prakharsinghch/dsa-practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/prakharsinghch/dsa-practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/prakharsinghch/dsa-practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/prakharsinghch/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/prakharsinghch/dsa-practice/tree/master/0854-making-a-large-island) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/prakharsinghch/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1558-course-schedule-iv](https://github.com/prakharsinghch/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/prakharsinghch/dsa-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/prakharsinghch/dsa-practice/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/prakharsinghch/dsa-practice/tree/master/0496-next-greater-element-i) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prakharsinghch/dsa-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Matrix
 |  |
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3721-count-mentions-per-user](https://github.com/prakharsinghch/dsa-practice/tree/master/3721-count-mentions-per-user) |
 ## Binary Search
@@ -213,10 +217,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
