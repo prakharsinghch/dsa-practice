@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/prakharsinghch/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prakharsinghch/dsa-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/prakharsinghch/dsa-practice/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -132,11 +133,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/prakharsinghch/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prakharsinghch/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
+| [2434-design-a-number-container-system](https://github.com/prakharsinghch/dsa-practice/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [2434-design-a-number-container-system](https://github.com/prakharsinghch/dsa-practice/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -259,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/prakharsinghch/dsa-practice/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
