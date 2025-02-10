@@ -11,14 +11,21 @@
  */
 class Solution {
 public:
-
-    bool recr(TreeNode* root, long mini, long maxx){
-        if(root == NULL) return true;
-        if(root->val <= mini || root->val>= maxx) return false;
-        return (recr(root->left,mini,root->val) && recr(root->right, root->val, maxx));
+    void recr(TreeNode* root, vector<int>& v){
+        if(root == NULL) return;
+        recr(root->left,v);
+        v.push_back(root->val);
+        recr(root->right,v);
     }
 
     bool isValidBST(TreeNode* root) {
-        return recr(root, LONG_MIN, LONG_MAX);
+        vector<int> v;
+        recr(root,v);
+        for(int i=1;i<v.size();i++){
+            if(v[i] <= v[i-1]) return false;
+        }
+
+        return true;
+        
     }
 };
