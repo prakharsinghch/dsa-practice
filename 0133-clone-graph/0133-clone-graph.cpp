@@ -22,29 +22,25 @@ public:
 class Solution {
 public:
     
-    Node* dfs(Node* node, unordered_map<Node*, Node*>& mp){
+    Node* recr(Node* node,unordered_map<Node*,Node*>& mp){
         vector<Node*> n;
         Node* ans = new Node(node->val);
-        mp[node] = ans;
+        mp[node] = ans; 
         for(auto x: node->neighbors){
             if(mp.find(x) != mp.end()){
                 n.push_back(mp[x]);
             }
-            else n.push_back(dfs(x,mp));
+            else n.push_back(recr(x,mp));
         }
         ans->neighbors = n;
         return ans;
-
     }
 
     Node* cloneGraph(Node* node) {
-        unordered_map<Node*, Node*> mp;
         if(node == NULL) return NULL;
-        if(node->neighbors.size() == 0){
-            Node* ans = new Node(node->val);
-            return ans;
-        }
-
-        return dfs(node,mp);
+        Node* x = new Node(node->val);
+        if(node->neighbors.size() == 0 ) return x;
+        unordered_map<Node*,Node*> mp;
+        return recr(node,mp);
     }
 };
