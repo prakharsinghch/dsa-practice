@@ -1,27 +1,29 @@
 class Solution {
 public:
-    bool iscycle(vector<int> adj[], vector<int>& vis, vector<int>& pathvis, int i){
-        vis[i]=1; pathvis[i]=1;
-        for (auto node: adj[i]){
-            if (!vis[node]){
-                if (iscycle(adj,vis,pathvis,node))return true;
-            }
-            else{
-                if (pathvis[node]==1)return true;
-            }
-        }
-        pathvis[i]=0;
-        return false;
-    }
     bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        vector<int> adj[n];
-        for (auto val: prerequisites){
-            adj[val[1]].push_back(val[0]);
+        if( prerequisites.size() == 0) return true;
+        vector<int> vis(n,0);
+        unordered_map<int,vector<int>> mp;
+        for(auto x: prerequisites){
+            mp[x[1]].push_back(x[0]);
         }
-        vector<int> vis(n,0), pathvis(n,0);
-        for (int i=0; i<n; i++){
-            if (iscycle(adj,vis,pathvis,i))return false;
+        queue<int> q;
+        q.push(prerequisites[0][1]);
+        while(!q.empty()){
+            int n=q.size();
+            for(int i=0;i<n;i++){
+                int x = q.front();
+                q.pop();
+                vis[x] = 1;
+                for(auto y: mp[x]){
+                    q.push(y);
+                    if(vis[y] == 1) return false;
+                }
+            }
         }
+
+        for(auto x: vis) if(x == 0) return false;
+
         return true;
     }
 };
