@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/prakharsinghch/dsa-practice/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/prakharsinghch/dsa-practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prakharsinghch/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/prakharsinghch/dsa-practice/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/prakharsinghch/dsa-practice/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/prakharsinghch/dsa-practice/tree/master/0684-redundant-connection) |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/prakharsinghch/dsa-practice/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/prakharsinghch/dsa-practice/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/prakharsinghch/dsa-practice/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/prakharsinghch/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/prakharsinghch/dsa-practice/tree/master/1558-course-schedule-iv) |
@@ -64,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/prakharsinghch/dsa-practice/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/prakharsinghch/dsa-practice/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/prakharsinghch/dsa-practice/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/prakharsinghch/dsa-practice/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
