@@ -1,29 +1,31 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& prerequisites) {
-        if( prerequisites.size() == 0) return true;
-        vector<int> vis(n,0);
+    bool canFinish(int n, vector<vector<int>>& pre) {
+        vector<int> indeg(n,0);
         unordered_map<int,vector<int>> mp;
-        for(auto x: prerequisites){
+        for(auto x: pre){
             mp[x[1]].push_back(x[0]);
+            indeg[x[0]]++;
         }
         queue<int> q;
-        q.push(prerequisites[0][1]);
-        while(!q.empty()){
-            int n=q.size();
-            for(int i=0;i<n;i++){
-                int x = q.front();
-                q.pop();
-                vis[x] = 1;
-                for(auto y: mp[x]){
-                    q.push(y);
-                    if(vis[y] == 1) return false;
-                }
-            }
+        for(int i=0;i<n;i++){
+            if(indeg[i] == 0) q.push(i);
         }
 
-        for(auto x: vis) if(x == 0) return false;
+        if(q.size() == 0) return false;
 
+        while(!q.empty()){
+            int x = q.front();
+            q.pop();
+            for(auto y : mp[x]){
+                indeg[y]--;
+                if(indeg[y]== 0) q.push(y); 
+            }
+        }
+        for(auto x: indeg){
+            if(x != 0) return false;
+        }
         return true;
+
     }
 };
