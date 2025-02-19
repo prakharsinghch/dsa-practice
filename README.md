@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/prakharsinghch/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prakharsinghch/dsa-practice/tree/master/0051-n-queens) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakharsinghch/dsa-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Hash Table
 |  |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/prakharsinghch/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/prakharsinghch/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/prakharsinghch/dsa-practice/tree/master/0686-repeated-string-match) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakharsinghch/dsa-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prakharsinghch/dsa-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2456-construct-smallest-number-from-di-string) |
