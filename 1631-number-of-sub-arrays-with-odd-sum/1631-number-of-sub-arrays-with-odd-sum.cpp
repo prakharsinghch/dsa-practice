@@ -6,7 +6,7 @@ public:
             pre+=a;
             if(pre%2) o++;
         }
-        o+=(arr.size()-o)*o;
-        return o % 1'000'000'007;
+        long long ans = (arr.size()-o+1)*o;
+        return ans % 1'000'000'007;
     }
 };
