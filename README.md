@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/prakharsinghch/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prakharsinghch/dsa-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2107-find-unique-binary-string) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
