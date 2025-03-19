@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/prakharsinghch/dsa-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3483-alternating-groups-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/prakharsinghch/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/prakharsinghch/dsa-practice/tree/master/3721-count-mentions-per-user) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prakharsinghch/dsa-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/prakharsinghch/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/prakharsinghch/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
@@ -440,9 +443,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3483-alternating-groups-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
