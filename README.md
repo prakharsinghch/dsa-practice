@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/prakharsinghch/dsa-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/prakharsinghch/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prakharsinghch/dsa-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prakharsinghch/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/prakharsinghch/dsa-practice/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prakharsinghch/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakharsinghch/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prakharsinghch/dsa-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/prakharsinghch/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prakharsinghch/dsa-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/prakharsinghch/dsa-practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/prakharsinghch/dsa-practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/prakharsinghch/dsa-practice/tree/master/3778-transform-array-by-parity) |
 ## Quickselect
 |  |
