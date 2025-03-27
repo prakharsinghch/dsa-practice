@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/prakharsinghch/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/prakharsinghch/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prakharsinghch/dsa-practice/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/prakharsinghch/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharsinghch/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/prakharsinghch/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/prakharsinghch/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/prakharsinghch/dsa-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/prakharsinghch/dsa-practice/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/prakharsinghch/dsa-practice/tree/master/0854-making-a-large-island) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prakharsinghch/dsa-practice/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prakharsinghch/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/prakharsinghch/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
