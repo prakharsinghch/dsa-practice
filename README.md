@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/prakharsinghch/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2383-add-two-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/2383-add-two-integers) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0101-symmetric-tree) |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0101-symmetric-tree) |
@@ -471,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/prakharsinghch/dsa-practice/tree/master/0173-binary-search-tree-iterator) |
