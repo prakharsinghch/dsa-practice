@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/prakharsinghch/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/prakharsinghch/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prakharsinghch/dsa-practice/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/prakharsinghch/dsa-practice/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/prakharsinghch/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/prakharsinghch/dsa-practice/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/prakharsinghch/dsa-practice/tree/master/0768-partition-labels) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/prakharsinghch/dsa-practice/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/0152-maximum-product-subarray) |
