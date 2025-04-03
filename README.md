@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/prakharsinghch/dsa-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/prakharsinghch/dsa-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prakharsinghch/dsa-practice/tree/master/0207-course-schedule) |
+| [0322-coin-change](https://github.com/prakharsinghch/dsa-practice/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/prakharsinghch/dsa-practice/tree/master/0684-redundant-connection) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/prakharsinghch/dsa-practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/prakharsinghch/dsa-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/prakharsinghch/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/prakharsinghch/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/prakharsinghch/dsa-practice/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
