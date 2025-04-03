@@ -1,30 +1,24 @@
 class Solution {
 public:
 
-    bool recr(vector<int>& nums,vector<vector<int>>& dp, int n, int sum){
+    bool recr(vector<int>&nums, vector<vector<int>>& dp,int i,int sum){
         if(sum == 0) return true;
-        if(n == 0) return  nums[0]==sum;
+        if(i >= nums.size()) return false;
+        if(dp[i][sum] != -1) return dp[i][sum];
+        int take=0,notake = recr(nums,dp,i+1,sum);
+        if(sum >= nums[i]) take = recr(nums,dp,i+1,sum-nums[i]);
 
-        if(dp[n][sum] != -1) return dp[n][sum];
-
-        bool not_take = recr(nums,dp,n-1,sum);
-        bool take=false;
-        if(sum>nums[n]){
-            take = recr(nums,dp,n-1,sum-nums[n]);
-        }
-
-        return dp[n][sum] = take || not_take;
-
+        return dp[i][sum] = take||notake;
     }
 
     bool canPartition(vector<int>& nums) {
-        int sum =0;
+        int sum = 0;
         for(auto x: nums) sum+=x;
         if(sum%2) return false;
         else{
             sum=sum/2;
-            vector<vector<int>> dp(nums.size()+1,vector<int>(sum+1,-1));
-            return recr(nums, dp,nums.size()-1,sum);
+            vector<vector<int>>dp(nums.size(),vector<int>(sum+1,-1));
+            return recr(nums,dp,0,sum);
         }
     }
 };
