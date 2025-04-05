@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/prakharsinghch/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prakharsinghch/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/prakharsinghch/dsa-practice/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
