@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/prakharsinghch/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/prakharsinghch/dsa-practice/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/prakharsinghch/dsa-practice/tree/master/0854-making-a-large-island) |
+| [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/prakharsinghch/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/prakharsinghch/dsa-practice/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/prakharsinghch/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
 | [1250-longest-common-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0326-power-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/prakharsinghch/dsa-practice/tree/master/0368-largest-divisible-subset) |
+| [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -579,4 +582,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
