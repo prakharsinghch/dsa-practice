@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/prakharsinghch/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prakharsinghch/dsa-practice/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/prakharsinghch/dsa-practice/tree/master/0072-edit-distance) |
+| [0132-palindrome-partitioning-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/prakharsinghch/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/prakharsinghch/dsa-practice/tree/master/0686-repeated-string-match) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
