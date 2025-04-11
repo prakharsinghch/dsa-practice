@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/prakharsinghch/dsa-practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/prakharsinghch/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/prakharsinghch/dsa-practice/tree/master/0051-n-queens) |
+| [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakharsinghch/dsa-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2107-find-unique-binary-string) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/prakharsinghch/dsa-practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/prakharsinghch/dsa-practice/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/prakharsinghch/dsa-practice/tree/master/0496-next-greater-element-i) |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/prakharsinghch/dsa-practice/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/prakharsinghch/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/prakharsinghch/dsa-practice/tree/master/0686-repeated-string-match) |
 | [0768-partition-labels](https://github.com/prakharsinghch/dsa-practice/tree/master/0768-partition-labels) |
@@ -395,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/prakharsinghch/dsa-practice/tree/master/0322-coin-change) |
@@ -432,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prakharsinghch/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -580,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
 ## Combinatorics
 |  |
 | ------- |
