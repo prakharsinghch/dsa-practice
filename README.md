@@ -421,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/prakharsinghch/dsa-practice/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/prakharsinghch/dsa-practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/prakharsinghch/dsa-practice/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prakharsinghch/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/prakharsinghch/dsa-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -587,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/2998-count-symmetric-integers) |
 ## Game Theory
 |  |
 | ------- |
