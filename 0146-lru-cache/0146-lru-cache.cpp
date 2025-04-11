@@ -1,65 +1,68 @@
 class Node {
-public :
-    int key;
-    int val;
-    Node* prev;
-    Node* next;
+    public:
+        int key;
+        int val;
+        Node* prev;
+        Node* next;
 
-    Node(int key, int val) : key(key), val(val), prev(nullptr), next(nullptr) {};
+        Node(int key, int val): key(key), val(val), prev(nullptr), next(nullptr) {};
 };
 
 class LRUCache {
-private:
-    int cap;
-    unordered_map<int,Node*> cache;
-    Node* oldest;
+public:
+    int c;
+    unordered_map<int,Node*> mp;
     Node* latest;
-public: 
+    Node* oldest;
     LRUCache(int capacity) {
-        cap = capacity;
-        oldest = new Node(0,0);
+        c = capacity;
         latest = new Node(0,0);
-        oldest->next = latest;
+        oldest = new Node(0,0);
         latest->prev = oldest;
-    }
-    
+        oldest->next = latest;
+    } 
     int get(int key) {
-        if(cache.find(key) != cache.end()){
-            Node* node = cache[key];
-            remove(node);
-            insert(node);
-            return node->val;
+        if(mp.find(key) != mp.end()){
+            Node* x= mp[key];
+            remove(x);
+            insert(x);
+            return x->val;
         }
+
         return -1;
     }
 
-    void remove(Node* node){
-        Node* prev = node->prev;
-        Node* next = node->next;
-        prev->next = next;
-        next->prev = prev;
+    void remove(Node* n){
+        Node* prev = n->prev;
+        Node* nxt = n->next;
+        prev->next = nxt;
+        nxt->prev = prev;
     }
 
-    void insert(Node* node){
+    void insert(Node* n){
         Node* prev = latest->prev;
-        Node* next = latest;
-        prev->next = next->prev = node;
-        node->next = next;
-        node->prev = prev;
+        Node* nxt = latest;
+        prev->next = n;
+        nxt->prev = n;
+        n->prev = prev;
+        n->next = nxt;
     }
     
     void put(int key, int value) {
-        if(cache.find(key) != cache.end()) remove(cache[key]);
-        Node* newNode = new Node(key,value);
-        cache[key] = newNode;
-        insert(newNode);
-
-        if(cache.size() > cap){
-            Node* lru = oldest->next;
-            remove(lru);
-            cache.erase(lru->key);
-            delete lru;
+        if(mp.find(key) != mp.end()){
+            remove(mp[key]);
         }
+        Node* n = new Node(key,value);
+        mp[key] = n;
+        insert(n);
+
+        if(mp.size() > c){
+            Node* o = oldest->next;
+            remove(o);
+            mp.erase(o->key);
+            delete o;
+        }
+
     }
 };
 
