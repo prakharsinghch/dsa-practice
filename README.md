@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/prakharsinghch/dsa-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3721-count-mentions-per-user](https://github.com/prakharsinghch/dsa-practice/tree/master/3721-count-mentions-per-user) |
 | [3778-transform-array-by-parity](https://github.com/prakharsinghch/dsa-practice/tree/master/3778-transform-array-by-parity) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/prakharsinghch/dsa-practice/tree/master/3447-clear-digits) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -615,4 +617,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
