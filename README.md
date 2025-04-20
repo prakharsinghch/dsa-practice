@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/prakharsinghch/dsa-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/prakharsinghch/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/prakharsinghch/dsa-practice/tree/master/0733-flood-fill) |
+| [0797-rabbits-in-forest](https://github.com/prakharsinghch/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/prakharsinghch/dsa-practice/tree/master/0854-making-a-large-island) |
 | [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/prakharsinghch/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/prakharsinghch/dsa-practice/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/prakharsinghch/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/prakharsinghch/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/prakharsinghch/dsa-practice/tree/master/0096-unique-binary-search-trees) |
 | [0326-power-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/prakharsinghch/dsa-practice/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/prakharsinghch/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -573,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/prakharsinghch/dsa-practice/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/prakharsinghch/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/prakharsinghch/dsa-practice/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prakharsinghch/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
