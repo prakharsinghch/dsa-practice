@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/prakharsinghch/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prakharsinghch/dsa-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/prakharsinghch/dsa-practice/tree/master/1500-count-largest-group) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prakharsinghch/dsa-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/prakharsinghch/dsa-practice/tree/master/2434-design-a-number-container-system) |
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/prakharsinghch/dsa-practice/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/prakharsinghch/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [0909-stone-game](https://github.com/prakharsinghch/dsa-practice/tree/master/0909-stone-game) |
+| [1500-count-largest-group](https://github.com/prakharsinghch/dsa-practice/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
