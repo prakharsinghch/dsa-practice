@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/prakharsinghch/dsa-practice/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/prakharsinghch/dsa-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/prakharsinghch/dsa-practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/prakharsinghch/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/prakharsinghch/dsa-practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/prakharsinghch/dsa-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/prakharsinghch/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prakharsinghch/dsa-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/prakharsinghch/dsa-practice/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/prakharsinghch/dsa-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prakharsinghch/dsa-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/prakharsinghch/dsa-practice/tree/master/2448-count-number-of-bad-pairs) |
