@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/prakharsinghch/dsa-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/prakharsinghch/dsa-practice/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prakharsinghch/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/prakharsinghch/dsa-practice/tree/master/3447-clear-digits) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/prakharsinghch/dsa-practice/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/prakharsinghch/dsa-practice/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Math
