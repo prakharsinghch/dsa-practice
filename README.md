@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/prakharsinghch/dsa-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/prakharsinghch/dsa-practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/prakharsinghch/dsa-practice/tree/master/0368-largest-divisible-subset) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/prakharsinghch/dsa-practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/prakharsinghch/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Bucket Sort
@@ -430,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prakharsinghch/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/prakharsinghch/dsa-practice/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0148-sort-list) |
 | [0460-lfu-cache](https://github.com/prakharsinghch/dsa-practice/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -685,4 +689,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
