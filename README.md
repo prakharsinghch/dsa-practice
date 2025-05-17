@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/prakharsinghch/dsa-practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/prakharsinghch/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/prakharsinghch/dsa-practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharsinghch/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prakharsinghch/dsa-practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/prakharsinghch/dsa-practice/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/prakharsinghch/dsa-practice/tree/master/0368-largest-divisible-subset) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prakharsinghch/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/prakharsinghch/dsa-practice/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/prakharsinghch/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/prakharsinghch/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
