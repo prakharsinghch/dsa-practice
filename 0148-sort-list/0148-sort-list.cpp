@@ -10,24 +10,83 @@
  */
 class Solution {
 public:
+
+    ListNode* findMiddle(ListNode* head){
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while(fast && fast->next){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        return slow;
+    }
+
+    ListNode* mergeTwo(ListNode* l1, ListNode* l2){
+        ListNode* newHead = NULL;
+        ListNode* tail = newHead;
+
+        while(l1 && l2){
+            if(l1->val < l2->val){
+                if(!newHead){
+                     newHead = l1;
+                     tail = newHead;
+                }else{
+                    tail->next = l1;
+                    tail = l1;
+                }
+                l1 = l1->next;
+            }else {
+                if(!newHead){
+                    newHead = l2;
+                    tail = newHead;
+                }else{
+                    tail->next = l2;
+                    tail = l2;
+                }
+                l2 = l2->next;
+            }
+        }
+
+        while(l1){
+            if(!newHead){
+                newHead = l1;
+                tail = newHead;
+            } else {
+                tail->next = l1;
+                tail = l1;
+            }
+            l1 = l1->next;
+        }
+
+        while(l2){
+            if(!newHead){
+                newHead = l2;
+                tail = newHead;
+            } else {
+                tail->next = l2;
+                tail = l2;
+            }
+            l2 = l2->next;
+        }
+
+        return newHead;
+
+    }
+
     ListNode* sortList(ListNode* head) {
-        if(head == NULL) return head;
-        ListNode* n = head;
-        vector<int> x; 
-        while(n != NULL){
-            x.push_back(n->val);
-            n = n->next;
-        }
-        sort(x.begin(),x.end());
-        ListNode* res = new ListNode();
-        ListNode* ans = new ListNode();
-        res = ans;
-        for(int i= 0 ; i <x.size();i++){
-            ListNode* l = new ListNode();
-            l->val = x[i];
-            ans->next = l;
-            ans = ans->next;
-        }
-        return res->next;
+        if(!head || !head->next) return head;
+        
+        ListNode* middle = findMiddle(head);
+        ListNode* right = middle->next;
+        middle->next = NULL;
+
+        ListNode* left = head;
+
+        left = sortList(left);
+        right = sortList(right);
+
+        return mergeTwo(left,right);
     }
 };
