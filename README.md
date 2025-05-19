@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/prakharsinghch/dsa-practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/prakharsinghch/dsa-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/prakharsinghch/dsa-practice/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3429-special-array-i) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/prakharsinghch/dsa-practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/prakharsinghch/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3321-type-of-triangle](https://github.com/prakharsinghch/dsa-practice/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/prakharsinghch/dsa-practice/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/prakharsinghch/dsa-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3721-count-mentions-per-user](https://github.com/prakharsinghch/dsa-practice/tree/master/3721-count-mentions-per-user) |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/prakharsinghch/dsa-practice/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/prakharsinghch/dsa-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/prakharsinghch/dsa-practice/tree/master/3321-type-of-triangle) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/prakharsinghch/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/prakharsinghch/dsa-practice/tree/master/3721-count-mentions-per-user) |
 ## Trie
