@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/prakharsinghch/dsa-practice/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/prakharsinghch/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prakharsinghch/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/prakharsinghch/dsa-practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/prakharsinghch/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/prakharsinghch/dsa-practice/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/prakharsinghch/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/prakharsinghch/dsa-practice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/prakharsinghch/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prakharsinghch/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/prakharsinghch/dsa-practice/tree/master/0133-clone-graph) |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/prakharsinghch/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/prakharsinghch/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/prakharsinghch/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/prakharsinghch/dsa-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/prakharsinghch/dsa-practice/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/prakharsinghch/dsa-practice/tree/master/0854-making-a-large-island) |
