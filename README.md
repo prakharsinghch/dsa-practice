@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/prakharsinghch/dsa-practice/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/prakharsinghch/dsa-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/prakharsinghch/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
 | ------- |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/prakharsinghch/dsa-practice/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/prakharsinghch/dsa-practice/tree/master/3447-clear-digits) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -696,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/2998-count-symmetric-integers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Game Theory
 |  |
 | ------- |
