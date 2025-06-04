@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3721-count-mentions-per-user](https://github.com/prakharsinghch/dsa-practice/tree/master/3721-count-mentions-per-user) |
 | [3778-transform-array-by-parity](https://github.com/prakharsinghch/dsa-practice/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prakharsinghch/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/prakharsinghch/dsa-practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Backtracking
 |  |
 | ------- |
@@ -676,11 +677,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prakharsinghch/dsa-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/prakharsinghch/dsa-practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/0326-power-of-three) |
 | [2050-count-good-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/2050-count-good-numbers) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/prakharsinghch/dsa-practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -699,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/prakharsinghch/dsa-practice/tree/master/2998-count-symmetric-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/prakharsinghch/dsa-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/prakharsinghch/dsa-practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Game Theory
 |  |
 | ------- |
