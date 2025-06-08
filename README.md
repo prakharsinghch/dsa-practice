@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prakharsinghch/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/prakharsinghch/dsa-practice/tree/master/0662-maximum-width-of-binary-tree) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/prakharsinghch/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/prakharsinghch/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/prakharsinghch/dsa-practice/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
 | ------- |
