@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/prakharsinghch/dsa-practice/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/prakharsinghch/dsa-practice/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/prakharsinghch/dsa-practice/tree/master/3721-count-mentions-per-user) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prakharsinghch/dsa-practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/prakharsinghch/dsa-practice/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prakharsinghch/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/prakharsinghch/dsa-practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
