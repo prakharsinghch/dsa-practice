@@ -1,32 +1,24 @@
 class Solution {
 public:
-
-    bool check(vector<int>& nums, int m, int p){
-        int c = 0;
-        for(int i=1;i<nums.size();i++){
-            if(nums[i] - nums[i-1] <= m){
-                c++;
-                i++;
-            }
-           
-        }
-
-        return c>=p;
-    }
-
     int minimizeMax(vector<int>& nums, int p) {
+        int n=nums.size();
         sort(nums.begin(),nums.end());
-        int l = 0, h = nums[nums.size()-1]-nums[0];
 
-        while(l<h){
-            int m = (l+h)/2;
-            if(check(nums,m,p)){
-                h = m;
+        int lo= -1, hi = 1e9+7;
+
+        while(lo< hi-1){
+            int mid = lo + (hi-lo)/2;
+            int a = 0;
+            for(int i=1;i<n;i++){
+                if(nums[i] - nums[i-1] <= mid){
+                    a++;
+                    i++;
+                }
             }
-            else l = m+1;
+            if(a>=p) hi=mid;
+            else lo = mid;
         }
 
-        return l;
-
+        return hi;
     }
 };
