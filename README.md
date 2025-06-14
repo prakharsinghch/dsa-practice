@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3778-transform-array-by-parity](https://github.com/prakharsinghch/dsa-practice/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prakharsinghch/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/prakharsinghch/dsa-practice/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -674,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/prakharsinghch/dsa-practice/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/prakharsinghch/dsa-practice/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/prakharsinghch/dsa-practice/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/prakharsinghch/dsa-practice/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Number Theory
 |  |
 | ------- |
