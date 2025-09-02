@@ -13,10 +13,6 @@ public:
                 if(points[j][1]<=points[i][1]){
                     bool check = true;  
                     for(int k=i+1;k<j;k++){
-                       // if(k == i || k == j) continue;
-                        // if(points[i][0] <= points[k][0] && points[k][0] <= points[j][0]){
-                        //     check=false;
-                        // }
                         if(points[i][1] >= points[k][1] && points[k][1] >= points[j][1]){
                             check=false;
                         }
