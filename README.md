@@ -535,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/prakharsinghch/dsa-practice/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/prakharsinghch/dsa-practice/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/prakharsinghch/dsa-practice/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prakharsinghch/dsa-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/2050-count-good-numbers) |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prakharsinghch/dsa-practice/tree/master/0054-spiral-matrix) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/prakharsinghch/dsa-practice/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/prakharsinghch/dsa-practice/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -728,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prakharsinghch/dsa-practice/tree/master/0231-power-of-two) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/prakharsinghch/dsa-practice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2478-longest-nice-subarray](https://github.com/prakharsinghch/dsa-practice/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/prakharsinghch/dsa-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
