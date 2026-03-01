@@ -463,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/prakharsinghch/dsa-practice/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/prakharsinghch/dsa-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/prakharsinghch/dsa-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/prakharsinghch/dsa-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/prakharsinghch/dsa-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2107-find-unique-binary-string) |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/prakharsinghch/dsa-practice/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/prakharsinghch/dsa-practice/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/prakharsinghch/dsa-practice/tree/master/1448-maximum-69-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prakharsinghch/dsa-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/prakharsinghch/dsa-practice/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/prakharsinghch/dsa-practice/tree/master/2681-put-marbles-in-bags) |
